@@ -1,0 +1,58 @@
+{
+    "product":[
+        {
+            "id":1,
+            "name":"Samsung S22 ultra",
+            "color":"Red",
+            "price":83000,
+            "category":"SmartPhone",
+            "brand":"Samsung",
+            "photo":"https://www.dpreview.com/files/p/articles/4617565053/samsung-galaxy-s22-ultra.jpeg"
+        },
+        {
+            "id":2,
+            "name":"Realme 9 Pro",
+            "color":"Sky blue",
+            "price":15000,
+            "category":"SmartPhone",
+            "brand":"Realme",
+            "photo":"https://www.dpreview.com/files/p/articles/4617565053/samsung-galaxy-s22-ultra.jpeg"
+        },
+        {
+            "id":3,
+            "name":"Vivo T1 Pro",
+            "color":"red",
+            "price":25000,
+            "category":"SmartPhone",
+            "brand":"Vivo",
+            "photo":"https://www.dpreview.com/files/p/articles/4617565053/samsung-galaxy-s22-ultra.jpeg"
+        },
+        {
+            "id":4,
+            "name":"Moto g65 pro",
+            "color":"red",
+            "price":30000,
+            "category":"SmartPhone",
+            "brand":"Motorola",
+            "photo":"https://www.dpreview.com/files/p/articles/4617565053/samsung-galaxy-s22-ultra.jpeg"
+        },
+        {
+            "id":5,
+            "name":"Samsung S22 plus",
+            "color":"red",
+            "price":45000,
+            "category":"SmartPhone",
+            "brand":"Samsung",
+            "photo":"https://www.dpreview.com/files/p/articles/4617565053/samsung-galaxy-s22-ultra.jpeg"
+        },
+        {
+            "id":6,
+            "name":"Sudhiya",
+            "color":"Red",
+            "price":0,
+            "category":"Biwi",
+            "brand":"Hiku",
+            "photo":"https://www.dpreview.com/files/p/articles/4617565053/samsung-galaxy-s22-ultra.jpeg"
+        }
+    ]
+}
