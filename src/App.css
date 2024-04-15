@@ -36,3 +36,93 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* Header Component CSS */
+.e-comm-logo{
+  margin: 0px;
+  }
+
+  a:-webkit-any-link {
+    color: green;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.header{
+  background-color: rgb(255, 253, 112);
+  display: flex;
+  padding: 10px;
+  height: 60px;
+  position: relative;
+}
+
+.header img{
+  height: 30px;
+  position: absolute;
+  right: 22px;
+  top: 25%;
+}
+.header span{
+  width: 20px;
+  height: 20px;
+  background-color: green;
+  color: white;
+  padding: 5px;
+  border-radius: 50%;
+  position: absolute;
+  right: 9px;
+  top: 4px;
+  z-index: 5;
+}
+
+.search-box{
+  height: 20px;
+  margin: 0px;
+  padding: 5px;
+  position: absolute;
+  right: 8%;
+  top: 25%;
+}
+
+/* Header CSS ends here */
+
+.App button{
+  margin: 10px;
+  width: auto;
+  padding: 10px;
+  background-color: green;
+  border-radius: 15px;
+  border: none;
+  color: white;
+}
+
+.productList{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin: 5px;
+}
+
+.card-view{
+  width: 300px;
+  border-radius: 15px;
+  /* border: 1px solid black; */
+  box-shadow: 5px 5px 5px gray;
+  align-items: center;
+  padding: 5px;
+  margin: 5px;
+}
+
+@keyframes cardAnimation {
+  from{
+    
+  }
+}
+
+.card-view img{
+  height: 200px;
+  padding: 5px;
+  margin-top: 10px;
+  border-radius: 15px;
+}

@@ -1,0 +1,32 @@
+.cart-container{
+    display: flex;
+}
+
+.cart-item{
+    width: 58vw;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px gray;
+    align-items: center;
+    padding: 5px;
+    margin: 5px;
+    display: flex;
+}
+.cart-item span{
+    margin: 0;
+    width: 300px;
+}
+  .cart-item img{
+    height: 150px;
+    padding: 5px;
+    margin-top: 10px;
+    border-radius: 15px;
+  }
+
+  .cart-amount{
+    width: 38vw;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px rgb(117, 85, 85);
+    align-items: center;
+    padding: 5px;    
+    margin-left: 10px;
+  }
