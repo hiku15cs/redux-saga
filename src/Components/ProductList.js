@@ -10,6 +10,8 @@ const ProductList = () => {
   useEffect(() => {
     dispatch(loadProductList());
   }, []);
+
+  
   return (
     <div>
       <div className="productList">
